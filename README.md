@@ -1,6 +1,16 @@
-# demo-client Website
+# Demo Client Website
 
-This is a custom website built with Next.js and Sanity CMS for demo-client.
+**White-Label Website Factory for Client Projects**
+
+This is a custom website built with Next.js and Sanity CMS, designed as a template for rapid deployment of professional client websites.
+
+## Project Overview
+
+Demo client project showcasing modern web development capabilities with:
+- **Frontend**: Next.js 13+ with TypeScript
+- **CMS**: Sanity CMS with embedded Studio
+- **Styling**: Tailwind CSS with custom theme system
+- **Purpose**: White-label website factory for solopreneurs
 
 ## Getting Started
 
@@ -22,6 +32,12 @@ This is a custom website built with Next.js and Sanity CMS for demo-client.
 
 5. Access Sanity Studio at [http://localhost:3000/studio](http://localhost:3000/studio)
 
+## Business Model
+
+- **Client Cost**: $0-$15/month (Sanity fees)
+- **Client Pricing**: $50-$200/month (website + CMS service)
+- **Value**: Professional website + easy content management
+
 ## Deployment
 
 This project can be deployed to:
@@ -37,10 +53,17 @@ The website content is managed through Sanity CMS. The client can access the adm
 - Edit page content
 - Update navigation
 
+## Client Automation
+
+Use the clone script for rapid client project creation:
+```bash
+./clone-for-client.sh <client-name> [sanity-project-id]
+```
+
 ## Support
 
 For technical support, contact: [your-email@domain.com]
 
 ---
 
-Built with ❤️ using Next.js and Sanity CMS
+Built with ❤️ using Next.js and Sanity CMS | Part of the EC Multi-Repo Client Ecosystem
